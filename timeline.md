@@ -58,6 +58,12 @@
 
 <!-- SLOT_WANDAVISION -->
 
+- **2023 – Westview: Criação da Realidade de Wanda**
+  Abalada pela perda de Visão, Wanda Maximoff cria uma realidade alternativa em Westview, manifestando uma família fictícia e assumindo a identidade da Feiticeira Escarlate. O evento revela todo o seu potencial mágico e desencadeia o interesse por seu poder.
+
+- **2025 – A Queda da Feiticeira Escarlate**
+  Consumida pelo Darkhold, Wanda busca desesperadamente reunir-se com versões de seus filhos em outros universos. Confronta Stephen Strange e América Chávez, causando rupturas no Multiverso, até sacrificar-se para destruir o Darkhold e conter sua corrupção.
+
 - **2024 – Homem‑Aranha: Longe de Casa**  
   Peter Parker enfrenta Mysterio e lida com a revelação de sua identidade.
 
