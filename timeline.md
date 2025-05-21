@@ -21,6 +21,11 @@
 - **2012 – Invasão Chitauri / Formação dos Vingadores**  
   Loki ataca Nova York com o Tesseract; os Vingadores se reúnem e selam a fenda dimensional.
 
+- **2012 – Fuga de Loki com o Tesseract**
+  Após a batalha de Nova York, uma versão variante de Loki escapa com o Tesseract, iniciando eventos que levam à intervenção da Autoridade de Variância Temporal (AVT).
+
+- **Fora do tempo – Guerra Multiversal e Fundação da AVT**
+  Loki descobre a existência da AVT, confronta variantes como Sylvie e testemunha a queda de Aquele Que Permanece, desencadeando a ramificação descontrolada da Linha do Tempo Sagrada e o surgimento do Multiverso.
 ---
 
 ## Fase 2 — Pós‑Vingadores
