@@ -1,26 +1,30 @@
-name: [_____]
+name: React App CI/CD
 
 on:
-  [_____]
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  
 
 jobs:
-  [_____]:
-    runs-on: [_____]
+  build:
+    runs-on: ubuntu-latest
 
     steps:
-      - name: [_____]
-        uses: [_____]
-
-      - name: [_____]
-        uses: [_____]
+      - name: Instalar dependências
+        run: npm install
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          node-version: [_____]
+          node-version: '18'
 
-      - name: [_____]
-        run: [_____]
+      - name: Checkout do código
+        uses: actions/checkout@v4
+      
+      - name: Rodar testes
+        run: npm test -- --watchAll=false
 
-      - name: [_____]
-        run: [_____]
-
-      - name: [_____]
-        run: [_____]
+      - name: Build do projeto
+        run: npm run build
